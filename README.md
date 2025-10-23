@@ -7,4 +7,4 @@ This repository contains daily programming practice from  LeetCode resources  (i
 <!-- Markdown fallback (works everywhere) -->
 | **#** | **Title** | **Problem** | **Solution** | **Difficulty** | **Source** |    
 |---:|---|---|:---:|:---:|---|    
-| 1 | Two Sum | This is the problem | [C++](./cpp/two_sum.cpp) | Easy | LeetCode |    
+| 1 | Two Sum | [problem_1](https://github.com/mdsksadi/problemSolving/blob/main/problems/problem_1.md) | solution | Easy | LeetCode |    
